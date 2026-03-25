@@ -1,0 +1,8 @@
+metric,value
+source_row_count,4
+target_row_count,5
+source_amount_total,581.50
+target_amount_total,700.75
+missing_in_target,1
+extra_in_target,1
+duplicate_ids_in_target,1
