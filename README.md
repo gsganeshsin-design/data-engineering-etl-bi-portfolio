@@ -1,2 +1,10 @@
-# data-engineering-etl-bi-portfolio
-End-to-end Data Engineering portfolio showcasing ETL (Informatica), SQL, Python, Data Warehousing, and Power BI dashboards with real-world financial and telecom use cases.
+This repository showcases my 10+ years of experience in Data Engineering, ETL development, and BI reporting across Telecom, Banking, and Insurance domains.
+
+It includes real-world inspired projects covering:
+- ETL/ELT pipeline design (Informatica-style)
+- Data Warehousing (Star Schema, SCD Type 2)
+- SQL-based data validation and reconciliation
+- Python-based ETL automation
+- Power BI dashboards for business insights
+
+The goal is to demonstrate end-to-end data pipeline development from ingestion to reporting.
