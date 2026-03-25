@@ -1,49 +1,22 @@
-# Ganesh Sivakumar - Data Engineering Portfolio
+# Data Engineering Portfolio
 
-This repository showcases practical work samples aligned to ETL / ELT, SQL, Python, BI reporting, and data quality engineering.
+This repository showcases my 10+ years of experience in:
+
+- ETL/ELT pipeline development (Informatica-style)
+- SQL & Data Warehousing (SCD Type 2)
+- Python-based data reconciliation
+- Power BI dashboards for business insights
 
 ## Projects
 
-### 1. Python ETL Reconciliation
-A Python-based ETL reconciliation utility that:
-- reads source and target CSV extracts
-- validates schema and required fields
-- performs control-total reconciliation
-- identifies mismatches and duplicate records
-- writes exception reports and a summary report
+1. Python ETL Pipeline
+2. SQL Data Warehouse
+3. BI Reporting (Power BI)
+4. Data Quality & Reconciliation
 
-**Skills shown:** Python, data validation, reconciliation, audit readiness, ETL controls.
-
-### 2. SQL Data Warehouse Models
-A set of SQL scripts that demonstrate:
-- staging to dimension/fact loading
-- SCD Type 2 customer dimension handling
-- sales fact loading
-- basic reconciliation queries
-
-**Skills shown:** SQL, DWH, Star Schema, SCD2, ETL/ELT design.
-
-### 3. BI Reporting Documentation
-Business-facing documentation for KPI reporting and dashboard delivery.
-
-**Skills shown:** requirements translation, KPI definition, reporting governance, stakeholder communication.
-
-## Repository Structure
-
-- `python_etl_reconciliation/` - Python ETL validation and reconciliation sample
-- `sql_data_warehouse/` - SQL DWH scripts and sample schema
-- `bi_reporting_docs/` - KPI and reporting documentation samples
-- `sample_data/` - example CSV files for ETL reconciliation
-
-## How to Run the Python Project
-
-```bash
-cd python_etl_reconciliation
-python etl_reconciliation.py
-```
-
-Outputs will be created in the `output/` folder.
-
-## Notes
-
-This portfolio uses sample data and generic business scenarios so it can be shared publicly.
+## Key Highlights
+- Built ETL pipelines with initial & incremental loads
+- Implemented SCD Type 2 logic
+- Developed reconciliation frameworks for financial reporting
+- Automated data pipelines using Python
+- Designed dashboards for business decision-making
